@@ -1,0 +1,66 @@
+                                                    USER GUIDE 
+
+                                                                    
+
+1.	Product Information:
+*	This will store the information of products you are going to sell.
+*	This function will require to enter:
+->	Number of products
+->	Product name
+->	Product ID
+->	Price for this product
+->	Grams per package in a product
+
+2.	Creating a database file:
+*	This will create a new file for your data to be stored
+*	This function will require to enter:
+->	Date on which product sold
+->	Customer name
+->	Customer contact
+->	Product ID
+->	Product delivery status
+->	Product payment status
+
+3.	Insert records in database file
+*	This will add data to an already formed file
+->	Date on which product sold
+->	Customer name
+->	Customer contact
+->	Product ID
+->	Product delivery status
+->	Product payment status
+
+4.	Delete a Record:
+*	This will delete a certain record from the file you created                                                                                                                           
+->	Line number that you want to be deleted
+
+5.	Check Delivery Status:
+*	This will check which customer has not been delivered yet and will print his data on screen.
+*	You need to only opt for this function it will itself evaluate and trace data.
+
+6.	Update a record :
+*	This will change the required field data foe e.g if you want to update delivery status to Yes or Update a contact no by choosing the correct  
+        sr-no as all the records will be shown first.
+
+7.	Search a record :
+*	Search by either name or contact number.
+
+8.	Graphical representation : 
+*	This will give u a graphical view of the sales of different products.
+
+9.	Total sales
+*	This will show the total sales of different products and also the total profit for each product sold.
+
+10.	List of customers who did not pay yet.
+*	This will show the list of those customers who did not pay yet.
+
+11.	Change Password:
+*	This will change the password of your program and secure your program
+->	Provide old password
+->	Provide a new password
+->	Re-enter new password
+Thankyou 
+
+  
+
+   
